@@ -1,5 +1,12 @@
 🚗 Garage Management System
-A full-stack web application that allows users to manage garage operations like tracking employee details, customer service orders, and vehicle management.
+A full-stack web application designed to manage garage operations efficiently. It includes features such as tracking employee details, managing customer service orders, and overseeing vehicle information.
 
-Tech Stack: Node.js, Express.js, MySQL, React, Bootstrap
-Features: Employee and customer management, order processing, and service tracking.
+🌟 Tech Stack
+Frontend: React, Bootstrap
+Backend: Node.js, Express.js
+Database: MySQL
+🛠️ Features
+Employee Management: Add, update, and track employee details.
+Customer Management: Manage customer profiles and service requests.
+Order Processing: Track and process service orders efficiently.
+Service Tracking: Monitor vehicle services, repairs, and maintenance records.
