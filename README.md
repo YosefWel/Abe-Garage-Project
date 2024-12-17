@@ -1,4 +1,4 @@
- Garage Management System
+🚗 Garage Management System
 A comprehensive full-stack web application designed to streamline garage operations, enhance efficiency, and provide an organized platform for managing key business activities, including employee tracking, customer service orders, and vehicle management.
 
 🌟 Introduction
