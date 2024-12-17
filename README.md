@@ -38,7 +38,7 @@ To run this project locally, follow these steps:
 1. Clone the Repository
 bash
 Copy code
-git clone <repository-url>  
+git clone https://github.com/YosefWel/Abe-Garage-Project.git 
 cd garage-management-system  
 2. Install Dependencies
 Backend:
